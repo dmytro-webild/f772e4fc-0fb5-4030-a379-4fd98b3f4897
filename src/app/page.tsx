@@ -72,13 +72,13 @@ export default function LandingPage() {
         {
           imageSrc: "http://img.b2bpic.net/free-photo/red-orange-bokeh-particles-background_84443-94456.jpg",          imageAlt: "Grand corporate event setup"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/wedding-table-number-decoration_23-2149433843.jpg",          imageAlt: "Vibrant birthday party decorations"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E2B6sbG4tzuhOYbHkAy2ib1OZ3/uploaded-1781135449700-na7e5f2z.png",          imageAlt: "Vibrant birthday party decorations"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/decorative-white-bird-cages-hang-osier-wedding-altar_8353-727.jpg",          imageAlt: "Beautiful outdoor wedding ceremony"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E2B6sbG4tzuhOYbHkAy2ib1OZ3/uploaded-1781135449700-zjcv48q9.png",          imageAlt: "Beautiful outdoor wedding ceremony"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/captured-southern-cross-guest-ranch_181624-13079.jpg",          imageAlt: "Modern table setting with floral accents"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E2B6sbG4tzuhOYbHkAy2ib1OZ3/uploaded-1781135449700-lsi3hdrf.png",          imageAlt: "Modern table setting with floral accents"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-women-with-fireworks_23-2149071743.jpg",          imageAlt: "Dramatic event lighting"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E2B6sbG4tzuhOYbHkAy2ib1OZ3/uploaded-1781135449701-3tivngmk.png",          imageAlt: "Dramatic event lighting"},
       ]}
       autoplayDelay={4000}
       showDimOverlay={true}
@@ -101,7 +101,7 @@ export default function LandingPage() {
         {
           title: "Seamless Execution",          description: "Professional setup and teardown, ensuring a stress-free experience."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/full-shot-women-sitting-table_23-2148975046.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E2B6sbG4tzuhOYbHkAy2ib1OZ3/uploaded-1781135449701-3tivngmk.png"
       imageAlt="Event decorator discussing plans with a client"
       mediaAnimation="slide-up"
     />
@@ -226,8 +226,8 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="Get in Touch"
       title="Plan Your Unforgettable Event"
-      description="Ready to transform your vision into reality? Contact Patzees today for a consultation and let's start planning the perfect decorations for your special occasion."
-      imageSrc="http://img.b2bpic.net/free-photo/save-date-ai-generated_268835-18705.jpg"
+      description="Ready to transform your vision into reality? Contact Patzees today for a consultation and let's start planning the perfect decorations for your special occasion. Visit us at 2648 Hamilton Rd, Dorchester, ON N0L 1G5 or call us at +15198583282."
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E2B6sbG4tzuhOYbHkAy2ib1OZ3/uploaded-1781135449700-rqc156xb.png"
       imageAlt="Elegant event invitation card or consultation graphic"
       mediaAnimation="slide-up"
       mediaPosition="right"
@@ -270,6 +270,10 @@ export default function LandingPage() {
               label: "Get a Quote",              href: "#contact"},
             {
               label: "Email Us",              href: "mailto:info@patzees.com"},
+            {
+              label: "Call Us",              href: "tel:+15198583282"},
+            {
+              label: "Visit Us",              href: "https://www.google.com/maps/search/2648+Hamilton+Rd,+Dorchester,+ON+N0L+1G5"},
             {
               label: "Privacy Policy",              href: "#"},
             {
